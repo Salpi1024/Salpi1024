@@ -1,5 +1,8 @@
 ### Hi there,I'm Salvatore 👋
 
+<h3>About Me</h3>
+<p>I am a full stack developer with a curious mindset, constantly trying to learn new technologies.</p>
+
 
 <h3>Some of the tools I use</h3>
 <p>
