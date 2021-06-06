@@ -1,4 +1,4 @@
-### Hi there,I'm Salvatore 👋
+### Hi there, I'm Salvatore 👋
 
 <h3>About Me</h3>
 <p>I am a full stack developer with a curious mindset, constantly trying to learn new technologies.</p>
